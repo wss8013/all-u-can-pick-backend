@@ -1,0 +1,16 @@
+{
+  "name": "all-u-can-pick-backend",
+  "version": "1.0.0",
+  "description": "all you can pick website backend ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ccs.neu.edu/NEU-CS5610-SU22/all-u-can-pick-backend.git"
+  },
+  "author": "ladybugs",
+  "license": "ISC"
+}
